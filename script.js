@@ -140,3 +140,5 @@ oUser.addEventListener('input', checkNames);
 button.addEventListener('click', function() {
     game.init();
 });
+
+//test comita
